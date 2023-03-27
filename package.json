@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "npx chromatic --project-token=2a4e8d78a87a"
   },
   "eslintConfig": {
     "extends": [
@@ -69,5 +70,7 @@
     "prop-types": "^15.8.1",
     "tailwindcss": "^3.2.7",
     "webpack": "^5.76.3"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "onmo-storybook@0.1.0"
 }
