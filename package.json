@@ -84,7 +84,7 @@
       ]
     ]
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "git@github.com:imgurjit/onmo-storybook.git",
   "author": "Gurjit Singh <gurjit.singh@roki.digital>",
   "license": "MIT"
