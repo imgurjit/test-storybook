@@ -75,7 +75,6 @@
     "webpack": "^5.76.3"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "onmo-storybook@0.1.0",
   "babel": {
     "presets": [
       [
