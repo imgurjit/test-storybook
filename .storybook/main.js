@@ -5,6 +5,13 @@ module.exports = {
     "../src/**/*.stories.mdx",
     "../src/**/*.stories.@(js|jsx|ts|tsx)"
   ],
+  refs: {
+    'design-system': {
+      title: 'My design system',
+      //👇 The url provided by Chromatic when it was deployed
+      url: 'https://642168ae8360bcd552b65857-tctyxdvcnb.chromatic.com/',
+    },
+  },
   "addons": [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
